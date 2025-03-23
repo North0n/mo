@@ -1,0 +1,14 @@
+train: yolo_street_view/images/train # training images (relative to 'path')
+val: yolo_street_view/images/test # validation images (relative to 'path')
+# test: images/test
+names:
+    0: 0
+    1: 1
+    2: 2
+    3: 3
+    4: 4
+    5: 5
+    6: 6
+    7: 7
+    8: 8
+    9: 9
